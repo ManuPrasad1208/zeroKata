@@ -1,0 +1,35 @@
+p{
+  font-size:1.6rem;
+  color:orange;
+}
+big{
+  font-size: 5rem;
+  color:red;
+  /* font-family: "Arvo", cursive; */
+  /* font-family: 'Itim', cursive; */
+}
+.game-info{
+  text-align: center;
+  font-family: 'Itim', cursive;
+}
+/* .tic{
+  text-align: center;
+  font-family: 'Itim', cursive;
+  }*/
+.btn-tic{
+  width:5rem;
+  height:5rem;
+}
+.resetbtn{
+  text-align: center;
+  align-items: center;
+}
+.tic{
+  border: solid;
+  border-radius: 10px;
+  border-color: green;
+}
+div{
+  height:635px;
+  width:560px;
+}
